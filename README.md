@@ -1,6 +1,6 @@
 ## Hi there, I'm Dody 👋
 
-- 🧑‍💻 I'm currently working as Data Scientist.
+- 🧑‍💻 I'm currently studying Master of IT in Business, specializing in Artificial Intelligence in Singapore Management University (SMU).
 - 🎓 I finished my bachelor's in Computer Science and Mathematics (double major) at Binus University.
 - 🔭 I'm interested in AI, machine learning, and data analysis.
 
