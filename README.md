@@ -1,8 +1,8 @@
 ## Hi there, I'm Dody 👋
 
-- 🧑‍💻 I'm currently studying Master of IT in Business, specializing in Artificial Intelligence in Singapore Management University (SMU).
+- 🧑‍💻 Currently pursuing Master of IT in Business, specializing in Artificial Intelligence in Singapore Management University (SMU).
 - 🎓 I finished my bachelor's in Computer Science and Mathematics (double major) at Binus University.
-- 📊 I have 2 years of experience as a Data Scientist, and I am always eager to explore the possibilities of AI, machine learning, and data analysis to solve business problems.
+- 📊 2 years of experience as a Data Scientist, leveraging AI, machine learning, and data analysis to solve business problems.
 
 ### 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dodyharianto) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@dodyharianto) [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/dodyharianto)
